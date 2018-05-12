@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style type="text/css">
+        #section1{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+        #section2{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+        #section3{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+        #section4{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+        #section5{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+        #section6{background-color: blue;height: 50px;width: 16%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+        #section7{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+        a{color: white; text-decoration:none;}
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <img src="C:\Users\Administrator\Desktop\index\123_01.png" style="float:left;margin-left:0px;" width="100%">
+    <p>
+    <div id="section1"><a href="http://yxb.yangtzeu.edu.cn/medical/yxrzztw">首页</a></div>
+    <div id="section2"><a href="www.baidu.com">组织机构</a></div>
+    <div id="section3"><a href="www.baidu.com">最新动态</a></div>
+    <div id="section4"><a href="www.baidu.com">通知公告</a></div>
+    <div id="section5"><a href="<a href="/medical/yxrzztw/xxzl/" target="_blank">学习资料</a></div>
+    <div id="section6"><a href="www.baidu.com">医学教育改革</a></div>
+    <div id="section7"><a href="www.baidu.com">资料下载</a></div>
+    </p>
+    <img src="C:\Users\Administrator\Desktop\index\123_09.png"style="float:left;margin-left:0px;" width="100%">
+</body>
+
+</html> 
