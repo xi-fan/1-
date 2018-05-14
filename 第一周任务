@@ -17,7 +17,7 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="C:\Users\Administrator\Desktop\index\123_01.png" style="float:left;margin-left:0px;" width="100%">
+    <img src="images/123_01.png" style="float:left;margin-left:0px;" width="100%">
     <p>
     <div id="section1"><a href="http://yxb.yangtzeu.edu.cn/medical/yxrzztw">首页</a></div>
     <div id="section2"><a href="www.baidu.com">组织机构</a></div>
@@ -27,7 +27,7 @@
     <div id="section6"><a href="www.baidu.com">医学教育改革</a></div>
     <div id="section7"><a href="www.baidu.com">资料下载</a></div>
     </p>
-    <img src="C:\Users\Administrator\Desktop\index\123_09.png"style="float:left;margin-left:0px;" width="100%">
+    <img src="images/123_09.png"style="float:left;margin-left:0px;" width="100%">
 </body>
 
 </html> 
