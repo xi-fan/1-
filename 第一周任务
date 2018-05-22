@@ -11,47 +11,147 @@
     <img src="images/123_01.png" style="float:left;margin-left:0px;" width="100%">
 
     <p class="a">
-    <div id="section1"><a href="http://yxb.yangtzeu.edu.cn/medical/yxrzztw">首页</a></div>
+    <div id="section1"><a href="www.baidu.com">首页</a></div>
     <div id="section2"><a href="www.baidu.com">组织机构</a></div>
     <div id="section3"><a href="www.baidu.com">最新动态</a></div>
     <div id="section4"><a href="www.baidu.com">通知公告</a></div>
-    <div id="section5"><a href="<a href="/medical/yxrzztw/xxzl/" target="_blank">学习资料</a></div>
+    <div id="section5"><a href="www.baidu.com">学习资料</a></div>
     <div id="section6"><a href="www.baidu.com">医学教育改革</a></div>
     <div id="section7"><a href="www.baidu.com">资料下载</a></div>
     </p>
 
     <p>
-    <div id="section8"><h2 style="float:left;margin-left:0px;">通知<span>公告</span></h2><br/>
-      <ul><br/>
+    <div id="section8"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;通知<span>公告</span></h2>
+        <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+        <hr align="center" width="520px" color="blue" size="2px">
+      <ul>
         <li><a href="#" title="教育部关于实施西北大学">教育部关于实施西北大学。。。。。。。</a></li>
         <li><a href="#" title="教育部关于实施西北大学">教育部关于实施西北大学。。。。。。。</a></li>
+        <li></li>
+        <li></li>
       </ul>
     </div>
-
-    <div id="section9"><h2 style="float:left;margin-left:0px;">专题<span>新闻</span></h2></br/>
-        <div><br/><br/>
+    <div id="section9"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;专题<span>新闻</span></h2>
+        <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+        <hr align="center" width="730px" color="blue" size="2px">
+        <div id="sectionx">
             <img src="images/123.jpg" style="float:left;margin-left:0px; width="35%">
         </div>
-        <div>
-        大风过后就是德国海军公开发售的机会更少黑色的规划设计肯定会更加快速打
-        分别是封杀尽快恢复加速度和
-        <li><a href="#" title="临床第一学院召开什么乱七八糟的会议">临床第一学院</a></li>
+        <div id="sectiony"><h3>水发冬菇对方感受过</h3>
+         <p>&nbsp;&nbsp;&nbsp;&nbsp;大风过后就是德国海军公开发售的机会更少黑色的规划设计肯定会更加快速打
+          分别是封杀尽快恢复加速度和</p>
+          <ul>
+          <li><a href="#" title="临床第一学院召开什么乱七八糟的会议">临床第一学院召开会议。。。。。。。。</a></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          </ul>
         </div>
     </div>
     </p>
 
     <p class="second">
-        <div id="sectiona"><h2 style="float:left;margin-left:0px;">学习<span>资料</span></h2><br/>
-          <ul><br/>
+        <div id="sectiona"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;学习<span>资料</span></h2>
+            <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+            <hr align="center" width="520px" color="blue" size="2px">
+          <ul>
             <li><a href="#" title="临床第一学院召开会议">临床第一学院召开会议。。。。。。。。</a></li>
+            <li></li>
+            <li></li>
+            <li></li>
           </ul>
         </div>
-        <div id="sectionb"><h2 style="float:left;margin-left:0px;">教育<span>改革</span></h2></br/>
-            <ul><br/>
-              <li style="float:left;margin-left:0px;"><a href="#" title="临床第一学院召开什么乱七八糟的会议">临床第一学院召开会议。。。。。。。。。</a></li>
+        <div id="sectionb"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;教育<span>改革</span></h2>
+           <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+           <hr align="center" width="450px" color="blue" size="2px">
+            <ul>
+              <li><a href="#" title="临床第一学院召开什么乱七八糟的会议">临床第一学院召开会议。。。。。。。。。</a></li>
+              <li></li>
+              <li></li>
+              <li></li>
             <ul>
         </div>
-        <div id="sectionc"><h2><span>站内连接</span></h2>
+        <div id="sectionc"><h2><span>站内连接</span></h2> <hr align="center" width="243px" color="blue" size="2px">
+        </div>
+
+    </p>
+    <img src="images/12312.png"style="float:left;margin-left:0px;" width="100%">
+</body>
+
+</html> <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="stylesheet" href="css/main.css">
+    <title>Document</title>
+</head>
+<body>
+    <img src="images/123_01.png" style="float:left;margin-left:0px;" width="100%">
+
+    <p class="a">
+    <div id="section1"><a href="www.baidu.com">首页</a></div>
+    <div id="section2"><a href="www.baidu.com">组织机构</a></div>
+    <div id="section3"><a href="www.baidu.com">最新动态</a></div>
+    <div id="section4"><a href="www.baidu.com">通知公告</a></div>
+    <div id="section5"><a href="www.baidu.com">学习资料</a></div>
+    <div id="section6"><a href="www.baidu.com">医学教育改革</a></div>
+    <div id="section7"><a href="www.baidu.com">资料下载</a></div>
+    </p>
+
+    <p>
+    <div id="section8"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;通知<span>公告</span></h2>
+        <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+        <hr align="center" width="520px" color="blue" size="2px">
+      <ul>
+        <li><a href="#" title="教育部关于实施西北大学">教育部关于实施西北大学。。。。。。。</a></li>
+        <li><a href="#" title="教育部关于实施西北大学">教育部关于实施西北大学。。。。。。。</a></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
+    <div id="section9"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;专题<span>新闻</span></h2>
+        <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+        <hr align="center" width="730px" color="blue" size="2px">
+        <div id="sectionx">
+            <img src="images/123.jpg" style="float:left;margin-left:0px; width="35%">
+        </div>
+        <div id="sectiony"><h3>水发冬菇对方感受过</h3>
+         <p>&nbsp;&nbsp;&nbsp;&nbsp;大风过后就是德国海军公开发售的机会更少黑色的规划设计肯定会更加快速打
+          分别是封杀尽快恢复加速度和</p>
+          <ul>
+          <li><a href="#" title="临床第一学院召开什么乱七八糟的会议">临床第一学院召开会议。。。。。。。。</a></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          </ul>
+        </div>
+    </div>
+    </p>
+
+    <p class="second">
+        <div id="sectiona"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;学习<span>资料</span></h2>
+            <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+            <hr align="center" width="520px" color="blue" size="2px">
+          <ul>
+            <li><a href="#" title="临床第一学院召开会议">临床第一学院召开会议。。。。。。。。</a></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+        <div id="sectionb"><h2 style="float:left;margin-left:0px;">&nbsp;&nbsp;教育<span>改革</span></h2>
+           <h2 style="float:right;margin-left:0px;"><span>MORE+&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+           <hr align="center" width="450px" color="blue" size="2px">
+            <ul>
+              <li><a href="#" title="临床第一学院召开什么乱七八糟的会议">临床第一学院召开会议。。。。。。。。。</a></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            <ul>
+        </div>
+        <div id="sectionc"><h2><span>站内连接</span></h2> <hr align="center" width="243px" color="blue" size="2px">
         </div>
 
     </p>
