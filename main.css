@@ -1,0 +1,23 @@
+<style type="text/css">
+#section0{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section1{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section2{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section3{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section4{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section5{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section6{background-color: blue;height: 50px;width: 16%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section7{background-color: blue;height: 50px;width: 14%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section8{background-color: rgb(251, 251, 253);height: 600px;width: 40%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#section9{background-color: rgb(248, 248, 250);height: 600px;width: 60%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#sectionx{background-color: rgb(248, 248, 250);height: 600px;width: 40%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#sectiony{background-color: rgb(248, 248, 250);height: 600px;width: 60%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#sectiona{background-color: rgb(248, 248, 250);height: 600px;width: 40%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#sectionb{background-color: rgb(248, 248, 250);height: 600px;width: 38%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+#sectionc{border:1px solid rgb(8, 8, 8);background-color: rgb(248, 248, 250);height: 400px;width: 19%;float: left;font-size: 20px;text-align: center;line-height: 50px;}
+a{color: rgb(8, 8, 8); text-decoration:none;}
+a:hover{color: purple}
+.b{color: blue;
+font-size: 20px;}
+span{color: blue;
+font-size: 20px;}
+</style>
